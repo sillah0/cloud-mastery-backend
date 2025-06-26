@@ -2,7 +2,7 @@
 
 Backend service built with NestJs 10. Includes unit tests to ensure robustness and efficiency.
 
-## Installation
+## Installations
 
 1. Clone the repository and then install required dependencies
 
@@ -16,7 +16,7 @@ git clone git@github.com:Pawa-IT-Solutions/cloud-mastery-backend.git
 cd cloud-mastery-backend
 ```
 
-3. Install dependencies
+3. Install dependencie
 
 ```bash
 $ npm install
